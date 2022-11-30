@@ -16,7 +16,7 @@
         }
 
         body {
-            background-color: #fff;
+            background-image: linear-gradient(15deg, #AE67FA 0%, #F49867 150%);
             min-height: 100vh;
             font-family: "Fira Sans", sans-serif;
         }
@@ -260,7 +260,7 @@
     <div class="container">
         <div class="row mt-5">
 
-            <div class="preview-    ">
+            <div class="preview-card">
                 <div class="preview-card__wrp">
                     <div class="preview-card__item">
                         <div class="preview-card__img">
